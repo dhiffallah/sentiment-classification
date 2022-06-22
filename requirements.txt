@@ -12,7 +12,7 @@ Keras-Preprocessing==1.1.0
 matplotlib==3.0.3
 notebook==5.7.8
 numexpr==2.6.9
-numpy==1.17.0
+numpy==1.22.0
 stop-words==2018.7.23
 tensorboard==2.0.0
 tensorboardX==1.9
